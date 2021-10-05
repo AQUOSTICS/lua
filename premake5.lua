@@ -41,9 +41,7 @@ project "lua"
 		"lundump.c",
 		"lutf8lib.c",
 		"lvm.c",
-		"lzio.c",
-
-		"premake5.lua"
+		"lzio.c"
 	}
 
 	defines
